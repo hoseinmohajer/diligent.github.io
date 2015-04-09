@@ -1,0 +1,56 @@
+.index{
+	direction: rtl;
+}
+.modal-open .modal{
+	direction: ltr;
+}
+.portfolio-modal .close-modal .lr {
+	margin-right: 35px;
+}
+.navbar-default .nav li a {
+	/*text-transform: uppercase;*/
+	/*font-family: tahoma;*/
+	font-family: BBCNassim, Tahoma;
+	/*font-weight: bold;*/
+	letter-spacing: 0px;
+	color: #FFF;
+	font-size: 16pt;
+}
+.custom-color-contact-us {
+	color: #B6B5B5;
+	margin-bottom: 15px !important;
+	margin-top: 15px !important;
+	font-family: BBCNassim, Tahoma;
+}
+h4 {
+	font-size: 20px;
+}
+.form-control {
+	font-size: 20px;
+}
+.top-scroll-button {
+	position: fixed;
+	z-index: 100;
+	background-color: #fed136;
+	color: #fff;
+	top: 638px;
+	right: 17px;
+	padding: 5px 5px 0px 5px;
+	border-radius: 3px;
+	cursor: pointer;
+	display: none;
+}
+.contact-us {
+	color: #fff;
+	font-size: 17pt;
+	font-style: normal;
+}
+.contact-us-title {
+	font-weight: bold;
+}
+.phone-number {
+	color: #fed136;
+}
+.separator {
+	color: #fff;
+}
